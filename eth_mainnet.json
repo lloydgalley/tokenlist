@@ -1,0 +1,32 @@
+{
+  "name": "Ethereum Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://etherscan.io/token/images/weth_28.png",
+  "keywords": [
+    "eth"
+  ],
+  "tokens": [
+  	{
+      "name": "Wrapped Alltra from ALL",
+      "address": "0xb1d8084e1e28e7fb5d7ed1b17d3928f349d5dca8",
+      "symbol": "WALL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/tokenlist/main/all_logo.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png"
+    }
+  ]
+}

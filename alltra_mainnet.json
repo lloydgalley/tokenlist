@@ -1,0 +1,25 @@
+{
+  "name": "Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/lloydgalley/tokenlist/main/all_logo.png",
+  "keywords": [
+    "all",
+    "wall"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Alltra",
+      "address": "0x2da2b8f961F161ab6320acB3377e2e844a3C3ce4",
+      "symbol": "WALL",
+      "decimals": 18,
+      "chainId": 651940,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/tokenlist/main/all_logo.png"
+    }
+  ]
+}

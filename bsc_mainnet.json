@@ -1,0 +1,33 @@
+{
+  "name": "BSC Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+  "keywords": [
+    "bsc",
+    "wbsc"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Alltra from ALL",
+      "address": "0x9833299a0d5d42dd56851beeeb1e8d3dc690f970",
+      "symbol": "WALL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/tokenlist/main/all_logo.png"
+    },
+    {
+      "name": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    }
+  ]
+}
