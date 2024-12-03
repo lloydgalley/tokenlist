@@ -21,5 +21,13 @@
       "chainId": 651940,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/tokenlist/main/all_logo.png"
     }
+     {
+      "name": "ChatCoin",
+      "address": "0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc",
+      "symbol": "CHT",
+      "decimals": 8,
+      "chainId": 651940,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc/logo.png"
+    }
   ]
 }
