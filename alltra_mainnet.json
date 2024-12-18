@@ -45,6 +45,14 @@
       "chainId": 651940,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xB6a67342C40326E41BE964D0DF4D042D1fBfdf49/logo.png"
     },
+     {
+      "name": "MOOLA",
+      "address": "0x690740f055A41FA7669f5a379Bf71B0cDF353073",
+      "symbol": "AUDA",
+      "decimals": 18,
+      "chainId": 651940,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0x690740f055A41FA7669f5a379Bf71B0cDF353073/logo.png"
+    },
     {
       "name": "Hyper-Dex Exchange",
       "address": "0x0d9793861AEB9244AD1B34375a83A6730F6AdD38",
