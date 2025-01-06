@@ -29,22 +29,6 @@
       "chainId": 651940,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc/logo.png"
     },
-    {
-      "name": "Hyper-Barter Exchange",
-      "address": "0x1839f77eBed7F388c7035f7061B4B8Ef0E72317a",
-      "symbol": "HYBX",
-      "decimals": 8,
-      "chainId": 651940,
-      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0x1839f77eBed7F388c7035f7061B4B8Ef0E72317a/logo.png"
-    },
-    {
-      "name": "11::11",
-      "address": "0xB6a67342C40326E41BE964D0DF4D042D1fBfdf49",
-      "symbol": "11::11",
-      "decimals": 18,
-      "chainId": 651940,
-      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xB6a67342C40326E41BE964D0DF4D042D1fBfdf49/logo.png"
-    },
      {
       "name": "MOOLA",
       "address": "0x690740f055A41FA7669f5a379Bf71B0cDF353073",
