@@ -28,6 +28,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+      "name": "CHATCOIN",
+      "address": "0x5EB9e84246AA77606648628fBAB463Ae70F4a9C4",
+      "symbol": "CHT",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc/logo.png"
     }
   ]
 }
