@@ -44,6 +44,14 @@
       "decimals": 18,
       "chainId": 651940,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0x0d9793861AEB9244AD1B34375a83A6730F6AdD38/logo.png"
+    },
+    {
+      "name": "HYBX",
+      "address": "0x1839f77ebed7f388c7035f7061b4b8ef0e72317a",
+      "symbol": "HYBX",
+      "decimals": 18,
+      "chainId": 651940,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0x1839f77ebed7f388c7035f7061b4b8ef0e72317a/logo.png"
     }
   ]
 }
