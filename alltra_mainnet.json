@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "Wrapped Alltra",
-      "address": "0x2da2b8f961F161ab6320acB3377e2e844a3C3ce4",
+      "address": "0x2da2b8f961f161ab6320acb3377e2e844a3c3ce4",
       "symbol": "WALL",
       "decimals": 18,
       "chainId": 651940,
@@ -23,7 +23,7 @@
     },
     {
       "name": "CHATCOIN",
-      "address": "0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc",
+      "address": "0xe59bb804f4884fcea183a4a67b1bb04f4a4567bc",
       "symbol": "CHT",
       "decimals": 8,
       "chainId": 651940,
@@ -31,7 +31,7 @@
     },
      {
       "name": "MOOLA",
-      "address": "0x690740f055A41FA7669f5a379Bf71B0cDF353073",
+      "address": "0x690740f055a41fa7669f5a379bf71b0cdf353073",
       "symbol": "AUDA",
       "decimals": 18,
       "chainId": 651940,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Hyper-Dex Exchange",
-      "address": "0x0d9793861AEB9244AD1B34375a83A6730F6AdD38",
+      "address": "0x0d9793861aeb9244ad1b34375a83a6730f6add38",
       "symbol": "HYDX",
       "decimals": 18,
       "chainId": 651940,
