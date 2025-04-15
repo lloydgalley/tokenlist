@@ -27,6 +27,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://etherscan.io/token/images/weth_28.png"
+    },
+    {
+      "name": "ChatCoin from ALL",
+      "address": "0x2010867592bb200d73aa9064d4cb9ff2401ae43b",
+      "symbol": "CHT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xe59bb804f4884fcea183a4a67b1bb04f4a4567bc/logo.png"
     }
   ]
 }
