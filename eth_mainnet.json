@@ -35,6 +35,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xe59bb804f4884fcea183a4a67b1bb04f4a4567bc/logo.png"
-    }
+    },
+    {
+      "name": "ALLUSDT",
+      "address": "0x38AdCfe947B16CA7B7A28CE458CA757c66205cF0",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/blockchains/all/assets/0x66D8Efa0AF63B0e84eb1Dd72bf00f00cd1e2234e/logo.png"
+    },
   ]
 }
