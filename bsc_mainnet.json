@@ -36,6 +36,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/refs/heads/main/blockchains/all/assets/0xe59bb804f4884fcea183a4a67b1bb04f4a4567bc/logo.png"
+    },
+     {
+      "name": "AUSDT",
+      "address": "0xD1FbDc3bd7D913BA91a54Fd573d6806359c49e7a",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/blockchains/all/assets/0x66D8Efa0AF63B0e84eb1Dd72bf00f00cd1e2234e/logo.png"
     }
   ]
 }
