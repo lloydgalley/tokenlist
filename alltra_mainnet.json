@@ -60,6 +60,14 @@
       "decimals": 18,
       "chainId": 651940,
       "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/blockchains/all/assets/0x66D8Efa0AF63B0e84eb1Dd72bf00f00cd1e2234e/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x59795ac65b5f0391c63381ec301BD30AC84d9f19",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 651940,
+      "logoURI": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/blockchains/all/assets/0x59795ac65b5f0391c63381ec301bd30ac84d9f19/logo.png"
     }
   ]
 }
