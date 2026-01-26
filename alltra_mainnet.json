@@ -55,7 +55,7 @@
     },
     {
       "name": "AUSDT",
-      "address": "0x2da2b8f961F161ab6320acB3377e2e844a3C3ce4",
+      "address": "0x015B1897Ed5279930bC2Be46F661894d219292A6",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 651940,
